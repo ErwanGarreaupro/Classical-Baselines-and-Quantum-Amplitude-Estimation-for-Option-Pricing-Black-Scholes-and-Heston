@@ -1,0 +1,2 @@
+# Classical-Baselines-and-Quantum-Amplitude-Estimation-for-Option-Pricing-Black-Scholes-and-Heston
+Classical baselines and quantum methods for European option pricing under Black–Scholes and Heston. We implement Monte Carlo pricing and implied-vol surfaces, then build a Qiskit prototype using amplitude estimation/ancilla sampling on discretized payoffs. Includes benchmarks, plots, and NISQ limitations discussion.
